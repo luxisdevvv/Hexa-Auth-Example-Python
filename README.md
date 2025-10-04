@@ -94,7 +94,7 @@ This system integrates with HexaAuth for:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/luxisdev-license-system&type=Date)](https://star-history.com/#yourusername/luxisdev-license-system&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=luxisdevvv/Hexa-Auth-Example-Python&type=Date)](https://star-history.com/#luxisdevvv/Hexa-Auth-Example-Python&Date)
 
 ## License
 
@@ -115,4 +115,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with love by [LUXISDEV](https://github.com/luxisdev)
 
 </div>
+
 
