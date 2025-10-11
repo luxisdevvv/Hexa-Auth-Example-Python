@@ -15,8 +15,8 @@ A professional license validation system with HexaAuth integration and beautiful
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/luxisdev-license-system.git
-cd luxisdev-license-system
+git clone https://github.com/luxisdevvv/Hexa-Auth-Example-Python.git
+cd hexa-auth-example-python
 pip install -r requirements.txt
 ```
 
@@ -115,6 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with love by [LUXISDEV](https://github.com/luxisdevvv)
 
 </div>
+
 
 
 
